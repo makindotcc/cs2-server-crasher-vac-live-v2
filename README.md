@@ -1,5 +1,7 @@
 # self-made vac live
 
+![logo](https://github.com/user-attachments/assets/61deecc0-65b3-4dce-a518-e0bf5a2959dd)
+
 [![showcase](https://img.youtube.com/vi/xxv1jvq5Uxc/0.jpg)](https://www.youtube.com/watch?v=xxv1jvq5Uxc)
 
 ## motivation
